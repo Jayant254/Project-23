@@ -55,6 +55,7 @@ function draw() {
   boxA.display();
   boxB.display();
   boxC.display();
+
 }
 
 function keyPressed() {
